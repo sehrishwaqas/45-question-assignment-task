@@ -1,0 +1,12 @@
+"use strict";
+let place1 = ["japan", "USA", "maldives", "indonesia", "Holand"];
+//console.log(place1);
+//console.log (place1.sort());
+//console.log(place1);
+//console.log(place1.reverse());
+//console.log(place1);
+console.log(place1.reverse());
+console.log(place1.reverse());
+let sort1 = ["japan", "USA", "maldives", "indonesia", "Holand"];
+console.log(sort1.sort());
+console.log(sort1.reverse());
